@@ -6,10 +6,10 @@ I will be making my first hardware project, LED blinker.
 4017 IC
 Header pins
 electrolytic capacitor
- 1k ohm resistor
- 470 ohm resistor
- potentiometer
- 10 leds
+1k ohm resistor
+470 ohm resistor
+potentiometer
+10 leds
 
 
 ![Screenshot](Screenshot%202025-11-02%20084536.png)
